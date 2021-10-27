@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 02:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 03:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -181,6 +181,14 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <pubDate>Mon, 25 Oct 2021 11:55:54 GMT</pubDate>
             <content:encoded><![CDATA[똑똑똑, 안녕하세요! ♥블링크♥ 소문 듣고 왔습니다~   우리 블핑이들 선공개 타이틀 'How You Like That'이연일 세계 신기록을 써내려 가고 있다는 사실 :D [출처= MBC '쇼!음악중심]  [출처= SBS '인기가요'] 지난 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjBfMjEg/MDAxNTk1MjEyMDgwOTY4.dIPKIJ2v_6XC66f8jV4G3X4ITJobR_JrYSxYrOAxHPIg.NlDQJYmDOiawYHB4DkHMDXNk1wTOKrRNb5PDjaE_jKcg.JPEG/IQ8d-31qRwSXb81eGIRe-IxIIl7k.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TREASURE - [TMI_LOG] EP.3 YOSHI CAM 📹 (네이버 TV ─ YG FAMILY)]]></title>
+            <link>https://tv.naver.com/v/23180854</link>
+            <guid>https://tv.naver.com/v/23180854</guid>
+            <pubDate>Wed, 27 Oct 2021 03:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[5:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211026_246/sS2dR_1635235719571gwT68_JPEG/1635235619028.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[YOON - 'PASSAGE' MESSAGE VIDEO (네이버 TV ─ YG FAMILY)]]></title>
@@ -415,12 +423,11 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210805_86/vTULW_16281651765494C2v6_JPEG/1628165168287.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[AKMU - '맞짱 (Next Episode) (with Choi Jung Hoon of JANNABI)' OFFICIAL VIDEO (네이버 TV ─ YG FAMILY)]]></title>
-            <link>https://tv.naver.com/v/21718783</link>
-            <guid>https://tv.naver.com/v/21718783</guid>
-            <pubDate>Mon, 25 Oct 2021 11:56:02 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210805_295/hHjlp_16281609512017LrcG_JPEG/1628160734261.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[TREASURE - [TMI_LOG] EP.3 YOSHI CAM 📹 (V LIVE ─ YG Family)]]></title>
+            <link>https://www.vlive.tv/post/1-26182812</link>
+            <guid>https://www.vlive.tv/post/1-26182812</guid>
+            <pubDate>Wed, 27 Oct 2021 03:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[YG Family]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[YOON - 'PASSAGE' MESSAGE VIDEO (V LIVE ─ YG Family)]]></title>
@@ -552,13 +559,6 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <title><![CDATA[TREASURE - 'TEU-DAY' SPOT VIDEO (V LIVE ─ YG Family)]]></title>
             <link>https://www.vlive.tv/post/0-25232507</link>
             <guid>https://www.vlive.tv/post/0-25232507</guid>
-            <pubDate>Mon, 25 Oct 2021 12:00:44 GMT</pubDate>
-            <content:encoded><![CDATA[YG Family]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LISA - ‘LALISA’ M/V TEASER (V LIVE ─ YG Family)]]></title>
-            <link>https://www.vlive.tv/post/1-25241384</link>
-            <guid>https://www.vlive.tv/post/1-25241384</guid>
             <pubDate>Mon, 25 Oct 2021 12:00:44 GMT</pubDate>
             <content:encoded><![CDATA[YG Family]]></content:encoded>
         </item>
