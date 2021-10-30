@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-10-30T14:10:42.434Z</updated>
+    <updated>2021-10-30T15:11:38.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TREASURE - ‘나랑 있자 (BE WITH ME)’ HAPPY HALLOWEEN LIVE]]></title>
+        <id>https://www.vlive.tv/post/1-26241543</id>
+        <link href="https://www.vlive.tv/post/1-26241543"/>
+        <updated>2021-10-30T15:11:37.940Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TREASURE - [TMI_LOG] EP.3 YOSHI CAM 📹]]></title>
         <id>https://www.vlive.tv/post/1-26182812</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/1-25282029</id>
         <link href="https://www.vlive.tv/post/1-25282029"/>
         <updated>2021-10-25T12:00:44.173Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE - 'TEU-DAY' SPOT VIDEO]]></title>
-        <id>https://www.vlive.tv/post/0-25232507</id>
-        <link href="https://www.vlive.tv/post/0-25232507"/>
-        <updated>2021-10-25T12:00:44.176Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
 </feed>
