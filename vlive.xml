@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-11-05T02:27:01.098Z</updated>
+    <updated>2021-11-05T03:12:33.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TREASURE - [TMI_LOG] EP.4 JIHOON CAM 📹]]></title>
+        <id>https://www.vlive.tv/post/0-26318446</id>
+        <link href="https://www.vlive.tv/post/0-26318446"/>
+        <updated>2021-11-05T03:12:33.085Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TREASURE - ‘BE WITH ME' HAPPY HALLOWEEN LIVE]]></title>
         <id>https://www.vlive.tv/post/1-26241543</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/0-25285215</id>
         <link href="https://www.vlive.tv/post/0-25285215"/>
         <updated>2021-10-25T12:00:44.172Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LISA - 'LALISA' M/V]]></title>
-        <id>https://www.vlive.tv/post/1-25282029</id>
-        <link href="https://www.vlive.tv/post/1-25282029"/>
-        <updated>2021-10-25T12:00:44.173Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
 </feed>
