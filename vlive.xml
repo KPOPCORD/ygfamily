@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-11-05T12:18:09.256Z</updated>
+    <updated>2021-11-05T13:18:48.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TREASURE - WEB DRAMA ‘남고괴담’ TEASER]]></title>
+        <id>https://www.vlive.tv/post/0-26322133</id>
+        <link href="https://www.vlive.tv/post/0-26322133"/>
+        <updated>2021-11-05T13:18:47.433Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TREASURE - [TMI_LOG] EP.4 JIHOON CAM 📹]]></title>
         <id>https://www.vlive.tv/post/0-26318446</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/1-25356730</id>
         <link href="https://www.vlive.tv/post/1-25356730"/>
         <updated>2021-10-25T12:00:44.171Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LISA - 'LALISA' M/V MAKING FILM]]></title>
-        <id>https://www.vlive.tv/post/0-25285215</id>
-        <link href="https://www.vlive.tv/post/0-25285215"/>
-        <updated>2021-10-25T12:00:44.172Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
 </feed>
