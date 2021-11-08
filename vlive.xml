@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-11-08T12:18:15.298Z</updated>
+    <updated>2021-11-08T13:19:32.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TREASURE - WEB DRAMA ‘남고괴담’ CHARACTER INTERVIEW]]></title>
+        <id>https://www.vlive.tv/post/0-26352412</id>
+        <link href="https://www.vlive.tv/post/0-26352412"/>
+        <updated>2021-11-08T13:19:31.791Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TREASURE - WEB DRAMA "The Mysterious Class" TEASER]]></title>
         <id>https://www.vlive.tv/post/0-26322133</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/1-25431082</id>
         <link href="https://www.vlive.tv/post/1-25431082"/>
         <updated>2021-10-25T12:00:44.170Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LISA - ‘LALISA’ SPECIAL STAGE]]></title>
-        <id>https://www.vlive.tv/post/1-25356730</id>
-        <link href="https://www.vlive.tv/post/1-25356730"/>
-        <updated>2021-10-25T12:00:44.171Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
 </feed>
