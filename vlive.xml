@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-11-09T04:15:10.369Z</updated>
+    <updated>2021-11-09T05:11:11.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MINO - 'MANIAC' with BAND SESSION]]></title>
+        <id>https://www.vlive.tv/post/1-26378615</id>
+        <link href="https://www.vlive.tv/post/1-26378615"/>
+        <updated>2021-11-09T05:11:11.245Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TREASURE - WEB DRAMA ‘The Mysterious Class’ CHARACTER INTERVIEW]]></title>
         <id>https://www.vlive.tv/post/0-26352412</id>
@@ -135,13 +142,6 @@
         <title type="html"><![CDATA[LISA - ‘LALISA’ DANCE PRACTICE VIDEO]]></title>
         <id>https://www.vlive.tv/post/1-25448684</id>
         <link href="https://www.vlive.tv/post/1-25448684"/>
-        <updated>2021-10-25T12:00:44.170Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LISA - 'LALISA' JACKET MAKING FILM]]></title>
-        <id>https://www.vlive.tv/post/1-25431082</id>
-        <link href="https://www.vlive.tv/post/1-25431082"/>
         <updated>2021-10-25T12:00:44.170Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
