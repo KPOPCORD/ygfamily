@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-11-11T04:15:07.595Z</updated>
+    <updated>2021-11-11T05:11:08.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[YOON - 'PASSAGE' with BAND SESSION]]></title>
+        <id>https://www.vlive.tv/post/1-26407026</id>
+        <link href="https://www.vlive.tv/post/1-26407026"/>
+        <updated>2021-11-11T05:11:07.898Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MINO - 'MANIAC' with BAND SESSION]]></title>
         <id>https://www.vlive.tv/post/1-26378615</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/1-25472308</id>
         <link href="https://www.vlive.tv/post/1-25472308"/>
         <updated>2021-10-25T12:00:44.160Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LISA - ‘LALISA’ DANCE PRACTICE VIDEO]]></title>
-        <id>https://www.vlive.tv/post/1-25448684</id>
-        <link href="https://www.vlive.tv/post/1-25448684"/>
-        <updated>2021-10-25T12:00:44.170Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
 </feed>
