@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-11-15T02:26:50.790Z</updated>
+    <updated>2021-11-15T03:12:53.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TREASURE - [TMI_LOG] EP.5 DOYOUNG CAM 📹]]></title>
+        <id>https://www.vlive.tv/post/0-26448042</id>
+        <link href="https://www.vlive.tv/post/0-26448042"/>
+        <updated>2021-11-15T03:12:52.634Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YOON - 'PASSAGE' with BAND SESSION]]></title>
         <id>https://www.vlive.tv/post/1-26407026</id>
@@ -135,13 +142,6 @@
         <title type="html"><![CDATA[TREASURE - SPECIAL DANCE CHALLENGE HITS COMPILATION (CHUSEOK ver.)]]></title>
         <id>https://www.vlive.tv/post/1-25490523</id>
         <link href="https://www.vlive.tv/post/1-25490523"/>
-        <updated>2021-10-25T12:00:44.160Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LISA - FIRST SINGLE ALBUM LALISA ALBUM UNBOXING]]></title>
-        <id>https://www.vlive.tv/post/1-25472308</id>
-        <link href="https://www.vlive.tv/post/1-25472308"/>
         <updated>2021-10-25T12:00:44.160Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
