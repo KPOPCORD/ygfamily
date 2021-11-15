@@ -4,9 +4,25 @@
         <title>네이버 TV ─ YG FAMILY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 04:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 05:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MINO - 'MANIAC' VIEWING GUIDE]]></title>
+            <link>https://tv.naver.com/v/23520474</link>
+            <guid>https://tv.naver.com/v/23520474</guid>
+            <pubDate>Mon, 15 Nov 2021 05:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211114_53/ITxWG_1636893727905z6vAl_JPEG/1636893314661.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YOON - 'PASSAGE' VIEWING GUIDE]]></title>
+            <link>https://tv.naver.com/v/23520234</link>
+            <guid>https://tv.naver.com/v/23520234</guid>
+            <pubDate>Mon, 15 Nov 2021 05:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211114_275/cdoFF_1636893175468hwUsE_JPEG/1636892718323.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TREASURE - [TMI_LOG] EP.5 DOYOUNG CAM 📹]]></title>
             <link>https://tv.naver.com/v/23519993</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
             <content:encoded><![CDATA[0:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_281/DqXEE_1631017415681D6ifo_JPEG/1631017230210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLACKPINK 5th ANNIVERSARY [4+1] POP-UP WITH BLINK]]></title>
-            <link>https://tv.naver.com/v/22222286</link>
-            <guid>https://tv.naver.com/v/22222286</guid>
-            <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210902_97/zTU30_1630579865418tEKy3_JPEG/1630579847151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LISA - FIRST SINGLE ALBUM LALISA VISUAL TEASER #3]]></title>
-            <link>https://tv.naver.com/v/22222225</link>
-            <guid>https://tv.naver.com/v/22222225</guid>
-            <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[0:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210902_138/OqbuT_1630579670353j1YNg_JPEG/1630579655328.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

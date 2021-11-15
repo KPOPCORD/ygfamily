@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-11-15T04:15:13.467Z</updated>
+    <updated>2021-11-15T05:11:33.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MINO - 'MANIAC' VIEWING GUIDE]]></title>
+        <id>https://www.vlive.tv/post/1-26454819</id>
+        <link href="https://www.vlive.tv/post/1-26454819"/>
+        <updated>2021-11-15T05:11:32.939Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YOON - 'PASSAGE' VIEWING GUIDE]]></title>
+        <id>https://www.vlive.tv/post/0-26448221</id>
+        <link href="https://www.vlive.tv/post/0-26448221"/>
+        <updated>2021-11-15T05:11:32.941Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TREASURE - [TMI_LOG] EP.5 DOYOUNG CAM 📹]]></title>
         <id>https://www.vlive.tv/post/0-26448042</id>
@@ -129,20 +143,6 @@
         <id>https://www.vlive.tv/post/0-25699426</id>
         <link href="https://www.vlive.tv/post/0-25699426"/>
         <updated>2021-10-25T12:00:44.159Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LISA - ‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO]]></title>
-        <id>https://www.vlive.tv/post/0-25581601</id>
-        <link href="https://www.vlive.tv/post/0-25581601"/>
-        <updated>2021-10-25T12:00:44.159Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE - SPECIAL DANCE CHALLENGE HITS COMPILATION (CHUSEOK ver.)]]></title>
-        <id>https://www.vlive.tv/post/1-25490523</id>
-        <link href="https://www.vlive.tv/post/1-25490523"/>
-        <updated>2021-10-25T12:00:44.160Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
 </feed>
