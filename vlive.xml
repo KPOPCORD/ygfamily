@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-11-16T04:14:56.783Z</updated>
+    <updated>2021-11-16T05:11:27.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MINO - 'MANIAC' SPOILER VIDEO]]></title>
+        <id>https://www.vlive.tv/post/0-26470696</id>
+        <link href="https://www.vlive.tv/post/0-26470696"/>
+        <updated>2021-11-16T05:11:26.898Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MINO - 'MANIAC' VIEWING GUIDE]]></title>
         <id>https://www.vlive.tv/post/1-26454819</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/1-25725656</id>
         <link href="https://www.vlive.tv/post/1-25725656"/>
         <updated>2021-10-25T12:00:44.158Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE - 'TEU-DAY' SPOILER VIDEO]]></title>
-        <id>https://www.vlive.tv/post/0-25699426</id>
-        <link href="https://www.vlive.tv/post/0-25699426"/>
-        <updated>2021-10-25T12:00:44.159Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
 </feed>

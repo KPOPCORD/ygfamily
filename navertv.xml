@@ -4,9 +4,17 @@
         <title>네이버 TV ─ YG FAMILY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 04:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 05:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MINO - 'MANIAC' SPOILER VIDEO]]></title>
+            <link>https://tv.naver.com/v/23550399</link>
+            <guid>https://tv.naver.com/v/23550399</guid>
+            <pubDate>Tue, 16 Nov 2021 05:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211116_20/fFJhG_1637026973810eszgh_JPEG/1637026915306.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MINO - 'MANIAC' VIEWING GUIDE]]></title>
             <link>https://tv.naver.com/v/23520474</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_207/dohxt_1630999920584Ei7Qi_JPEG/1630999907259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LISA - ‘LALISA’ M/V TEASER]]></title>
-            <link>https://tv.naver.com/v/22321334</link>
-            <guid>https://tv.naver.com/v/22321334</guid>
-            <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[0:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210907_281/DqXEE_1631017415681D6ifo_JPEG/1631017230210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
