@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-11-18T04:15:03.727Z</updated>
+    <updated>2021-11-18T05:11:00.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[YOON - 'PASSAGE' SPOILER VIDEO]]></title>
+        <id>https://www.vlive.tv/post/0-26498263</id>
+        <link href="https://www.vlive.tv/post/0-26498263"/>
+        <updated>2021-11-18T05:10:59.643Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MINO - 'MANIAC' SPOILER VIDEO]]></title>
         <id>https://www.vlive.tv/post/0-26470696</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/0-25812145</id>
         <link href="https://www.vlive.tv/post/0-25812145"/>
         <updated>2021-10-25T12:00:44.157Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEU-DAY] Experience the special shine on TEU-DAY with a TEU-LIGHT firmware update!]]></title>
-        <id>https://www.vlive.tv/post/1-25725656</id>
-        <link href="https://www.vlive.tv/post/1-25725656"/>
-        <updated>2021-10-25T12:00:44.158Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
 </feed>
