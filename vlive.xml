@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-11-18T06:14:46.292Z</updated>
+    <updated>2021-11-18T07:12:22.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JAY X DK - Dance Performance Video (Doja Cat, The Weeknd - You Right)]]></title>
+        <id>https://www.vlive.tv/post/0-26489046</id>
+        <link href="https://www.vlive.tv/post/0-26489046"/>
+        <updated>2021-11-18T07:12:21.537Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YOON - 'PASSAGE' SPOILER VIDEO]]></title>
         <id>https://www.vlive.tv/post/0-26498263</id>
@@ -135,13 +142,6 @@
         <title type="html"><![CDATA[LISA - ‘MONEY’ DANCE PRACTICE VIDEO]]></title>
         <id>https://www.vlive.tv/post/0-25873336</id>
         <link href="https://www.vlive.tv/post/0-25873336"/>
-        <updated>2021-10-25T12:00:44.157Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE - [TMI_LOG] EP.1 ASAHI CAM 📹]]></title>
-        <id>https://www.vlive.tv/post/0-25812145</id>
-        <link href="https://www.vlive.tv/post/0-25812145"/>
         <updated>2021-10-25T12:00:44.157Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>

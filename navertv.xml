@@ -4,9 +4,17 @@
         <title>네이버 TV ─ YG FAMILY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 06:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 07:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JAY X DK - Dance Performance Video (Doja Cat, The Weeknd - You Right)]]></title>
+            <link>https://tv.naver.com/v/23582006</link>
+            <guid>https://tv.naver.com/v/23582006</guid>
+            <pubDate>Thu, 18 Nov 2021 07:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211117_93/7Tj3z_1637141544396GF2Gv_JPEG/1637141529972.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YOON - 'PASSAGE' SPOILER VIDEO]]></title>
             <link>https://tv.naver.com/v/23591964</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
             <content:encoded><![CDATA[4:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210910_247/bbkiG_1631278961941Ua17l_JPEG/1631278803105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LISA - 'LALISA' M/V]]></title>
-            <link>https://tv.naver.com/v/22377351</link>
-            <guid>https://tv.naver.com/v/22377351</guid>
-            <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210910_138/Clkl6_1631244906859n56iw_JPEG/1631244902510.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
