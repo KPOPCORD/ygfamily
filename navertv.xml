@@ -4,9 +4,17 @@
         <title>네이버 TV ─ YG FAMILY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 14:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 15:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MINO - VISUAL FILM #1]]></title>
+            <link>https://tv.naver.com/v/23675358</link>
+            <guid>https://tv.naver.com/v/23675358</guid>
+            <pubDate>Mon, 22 Nov 2021 15:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[0:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211122_286/Mtzav_1637582977914aBVPQ_JPEG/1637582950483.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TREASURE - [TMI_LOG] EP.6 BANG YE DAM CAM 📹]]></title>
             <link>https://tv.naver.com/v/23651628</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
             <content:encoded><![CDATA[3:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210915_283/zp9Xp_1631685798023uwqV3_JPEG/1631685784938.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LISA - ‘LALISA’ SPECIAL STAGE]]></title>
-            <link>https://tv.naver.com/v/22410408</link>
-            <guid>https://tv.naver.com/v/22410408</guid>
-            <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210912_26/RRf5Q_1631449202886sH9Cb_JPEG/1631449068931.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-11-22T14:11:46.531Z</updated>
+    <updated>2021-11-22T15:12:37.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MINO - VISUAL FILM #1]]></title>
+        <id>https://www.vlive.tv/post/1-26574301</id>
+        <link href="https://www.vlive.tv/post/1-26574301"/>
+        <updated>2021-11-22T15:12:36.588Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TREASURE - [TMI_LOG] EP.6 BANG YE DAM CAM 📹]]></title>
         <id>https://www.vlive.tv/post/0-26546596</id>
@@ -135,13 +142,6 @@
         <title type="html"><![CDATA[MINO - 'MANIAC' TEASER VIDEO]]></title>
         <id>https://www.vlive.tv/post/0-25975290</id>
         <link href="https://www.vlive.tv/post/0-25975290"/>
-        <updated>2021-10-25T12:00:44.157Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOON - 'PASSAGE' TEASER VIDEO]]></title>
-        <id>https://www.vlive.tv/post/1-25982631</id>
-        <link href="https://www.vlive.tv/post/1-25982631"/>
         <updated>2021-10-25T12:00:44.157Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
