@@ -4,9 +4,17 @@
         <title>네이버 TV ─ YG FAMILY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 02:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 03:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TREASURE - [TMI_LOG] EP.6 BANG YE DAM CAM 📹]]></title>
+            <link>https://tv.naver.com/v/23651628</link>
+            <guid>https://tv.naver.com/v/23651628</guid>
+            <pubDate>Mon, 22 Nov 2021 03:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[6:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211121_228/X7PQC_1637499833725HUCAs_JPEG/1637499804037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JAY X DK - Dance Performance Video (Doja Cat, The Weeknd - You Right)]]></title>
             <link>https://tv.naver.com/v/23582006</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210912_26/RRf5Q_1631449202886sH9Cb_JPEG/1631449068931.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LISA - 'LALISA' M/V MAKING FILM]]></title>
-            <link>https://tv.naver.com/v/22391558</link>
-            <guid>https://tv.naver.com/v/22391558</guid>
-            <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[4:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210910_247/bbkiG_1631278961941Ua17l_JPEG/1631278803105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
