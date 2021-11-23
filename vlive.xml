@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-11-23T14:11:53.227Z</updated>
+    <updated>2021-11-23T15:13:39.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MINO - VISUAL FILM #2]]></title>
+        <id>https://www.vlive.tv/post/1-26585673</id>
+        <link href="https://www.vlive.tv/post/1-26585673"/>
+        <updated>2021-11-23T15:13:38.424Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MINO - VISUAL FILM #1]]></title>
         <id>https://www.vlive.tv/post/1-26574301</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/1-26007233</id>
         <link href="https://www.vlive.tv/post/1-26007233"/>
         <updated>2021-11-22T18:13:59.181Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MINO - 'MANIAC' TEASER VIDEO]]></title>
-        <id>https://www.vlive.tv/post/0-25975290</id>
-        <link href="https://www.vlive.tv/post/0-25975290"/>
-        <updated>2021-11-22T18:13:59.182Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
 </feed>
