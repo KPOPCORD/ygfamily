@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-11-30T02:15:47.810Z</updated>
+    <updated>2021-11-30T03:10:44.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TREASURE - [TMI_LOG] EP.7 JUNKYU CAM 📹]]></title>
+        <id>https://www.vlive.tv/post/1-26675942</id>
+        <link href="https://www.vlive.tv/post/1-26675942"/>
+        <updated>2021-11-30T03:10:44.320Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MINO - VISUAL FILM #2]]></title>
         <id>https://www.vlive.tv/post/1-26585673</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/0-26070998</id>
         <link href="https://www.vlive.tv/post/0-26070998"/>
         <updated>2021-11-22T18:13:59.164Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE - [T.M.I] EP.19 PRIVATE STAGE ‘TEU-DAY’ Behind The Scenes]]></title>
-        <id>https://www.vlive.tv/post/1-26007233</id>
-        <link href="https://www.vlive.tv/post/1-26007233"/>
-        <updated>2021-11-22T18:13:59.181Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
 </feed>

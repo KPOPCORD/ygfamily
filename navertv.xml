@@ -4,9 +4,17 @@
         <title>네이버 TV ─ YG FAMILY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 02:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 03:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TREASURE - [TMI_LOG] EP.7 JUNKYU CAM 📹]]></title>
+            <link>https://tv.naver.com/v/23803283</link>
+            <guid>https://tv.naver.com/v/23803283</guid>
+            <pubDate>Tue, 30 Nov 2021 03:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[7:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_162/KyZFL_1638183352969V6NRS_JPEG/1638182819517.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MINO - VISUAL FILM #2]]></title>
             <link>https://tv.naver.com/v/23698393</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
             <content:encoded><![CDATA[5:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210917_232/Dshgr_1631885859144SjLHj_JPEG/1631885654379.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LISA - ‘LALISA’ DANCE PRACTICE VIDEO]]></title>
-            <link>https://tv.naver.com/v/22485610</link>
-            <guid>https://tv.naver.com/v/22485610</guid>
-            <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_277/mxfRV_1631769861714U2SR1_JPEG/1631769441263.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
