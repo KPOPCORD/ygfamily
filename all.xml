@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 14:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 15:11:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,14 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <pubDate>Mon, 25 Oct 2021 11:55:54 GMT</pubDate>
             <content:encoded><![CDATA[트-하 (๑•̀ㅁ•́๑)✧ 8월 7일 화려한 데뷔 콜을 울린 و ✧•̀.̫•́✧ 트레저의 데뷔 무대 다들 잘 보셨나요? '괴물 신인' 다운 면모 .. ♡우리 트메분들을 위한 깜짝 선물을 준비했습니다! 바로···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA4MjVfNTQg/MDAxNTk4MzE0NTk3MDc3.HfznJ8DoqV42a1GqFylTcfLBP1baV2KuPVUyyljKo1Ig.Bi7Lx863kDs_WGe05_d8rcelWHR6ao2-5w0eenp5phcg.JPEG/ID85X2BkQwj71z9yBabJjwZ1V_eo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MINO - '탕!♡ (TANG!♡)' M/V TEASER (네이버 TV ─ YG FAMILY)]]></title>
+            <link>https://tv.naver.com/v/23868847</link>
+            <guid>https://tv.naver.com/v/23868847</guid>
+            <pubDate>Thu, 02 Dec 2021 15:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[0:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_17/WaNqf_1638452680523rD9Ct_JPEG/1638452567445.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TREASURE - [TMI_LOG] EP.7 JUNKYU CAM 📹 (네이버 TV ─ YG FAMILY)]]></title>
@@ -416,12 +424,11 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210918_35/162ru_1631975164797x6sqH_JPEG/1631975048265.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LISA - FIRST SINGLE ALBUM LALISA ALBUM UNBOXING (네이버 TV ─ YG FAMILY)]]></title>
-            <link>https://tv.naver.com/v/22519358</link>
-            <guid>https://tv.naver.com/v/22519358</guid>
-            <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[5:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210917_232/Dshgr_1631885859144SjLHj_JPEG/1631885654379.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[MINO - '탕!♡ (TANG!♡)' M/V TEASER (V LIVE ─ YG Family)]]></title>
+            <link>https://www.vlive.tv/post/1-26728749</link>
+            <guid>https://www.vlive.tv/post/1-26728749</guid>
+            <pubDate>Thu, 02 Dec 2021 15:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[YG Family]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[TREASURE - [TMI_LOG] EP.7 JUNKYU CAM 📹 (V LIVE ─ YG Family)]]></title>
@@ -553,13 +560,6 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <title><![CDATA[TREASURE - [TMI_LOG] EP.2 CHOI HYUN SUK CAM 📹 (V LIVE ─ YG Family)]]></title>
             <link>https://www.vlive.tv/post/0-26099569</link>
             <guid>https://www.vlive.tv/post/0-26099569</guid>
-            <pubDate>Mon, 22 Nov 2021 18:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[YG Family]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MINO - 'MANIAC' MESSAGE VIDEO (V LIVE ─ YG Family)]]></title>
-            <link>https://www.vlive.tv/post/0-26070998</link>
-            <guid>https://www.vlive.tv/post/0-26070998</guid>
             <pubDate>Mon, 22 Nov 2021 18:13:59 GMT</pubDate>
             <content:encoded><![CDATA[YG Family]]></content:encoded>
         </item>
