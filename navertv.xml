@@ -4,9 +4,17 @@
         <title>네이버 TV ─ YG FAMILY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 00:38:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 01:54:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MINO - ‘탕!♡ (TANG!♡)’ UNTACT LISTENING SESSION]]></title>
+            <link>https://tv.naver.com/v/23892315</link>
+            <guid>https://tv.naver.com/v/23892315</guid>
+            <pubDate>Sat, 04 Dec 2021 01:54:34 GMT</pubDate>
+            <content:encoded><![CDATA[4:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_71/NBIXD_1638540011808IfxAI_JPEG/1638540008247.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MINO - '탕!♡ (TANG!♡)' M/V TEASER]]></title>
             <link>https://tv.naver.com/v/23868847</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
             <content:encoded><![CDATA[2:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210923_189/bXXXM_1632401836916KBnwq_JPEG/1632401219118.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TREASURE - SPECIAL DANCE CHALLENGE HITS COMPILATION (CHUSEOK ver.)]]></title>
-            <link>https://tv.naver.com/v/22530463</link>
-            <guid>https://tv.naver.com/v/22530463</guid>
-            <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[4:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210918_35/162ru_1631975164797x6sqH_JPEG/1631975048265.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

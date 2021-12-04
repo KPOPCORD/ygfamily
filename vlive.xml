@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-12-04T00:38:33.446Z</updated>
+    <updated>2021-12-04T01:54:45.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MINO - ‘탕!♡ (TANG!♡)’ UNTACT LISTENING SESSION]]></title>
+        <id>https://www.vlive.tv/post/1-26750423</id>
+        <link href="https://www.vlive.tv/post/1-26750423"/>
+        <updated>2021-12-04T01:54:44.537Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MINO - "TANG!♡"M/V TEASER]]></title>
         <id>https://www.vlive.tv/post/1-26728749</id>
@@ -135,13 +142,6 @@
         <title type="html"><![CDATA[YOON - 'PASSAGE' MESSAGE VIDEO]]></title>
         <id>https://www.vlive.tv/post/0-26092628</id>
         <link href="https://www.vlive.tv/post/0-26092628"/>
-        <updated>2021-11-22T18:13:59.163Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE - [TMI_LOG] EP.2 CHOI HYUN SUK CAM 📹]]></title>
-        <id>https://www.vlive.tv/post/0-26099569</id>
-        <link href="https://www.vlive.tv/post/0-26099569"/>
         <updated>2021-11-22T18:13:59.163Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
