@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-12-06T08:14:47.105Z</updated>
+    <updated>2021-12-06T09:13:16.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MINO - 3rd FULL ALBUM [“TO INFINITY.”] D-1]]></title>
+        <id>https://www.vlive.tv/post/0-26814446</id>
+        <link href="https://www.vlive.tv/post/0-26814446"/>
+        <updated>2021-12-06T09:13:16.275Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MINO - 3rd FULL ALBUM ["TO INFINITY."] HIGHLIGHT VERSE PREVIEW]]></title>
         <id>https://www.vlive.tv/post/0-26803618</id>
@@ -135,13 +142,6 @@
         <title type="html"><![CDATA[TREASURE - ‘BE WITH ME' HAPPY HALLOWEEN LIVE]]></title>
         <id>https://www.vlive.tv/post/1-26241543</id>
         <link href="https://www.vlive.tv/post/1-26241543"/>
-        <updated>2021-11-22T18:13:59.161Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE - [TMI_LOG] EP.3 YOSHI CAM 📹]]></title>
-        <id>https://www.vlive.tv/post/1-26182812</id>
-        <link href="https://www.vlive.tv/post/1-26182812"/>
         <updated>2021-11-22T18:13:59.161Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>

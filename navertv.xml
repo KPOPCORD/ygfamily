@@ -4,9 +4,17 @@
         <title>네이버 TV ─ YG FAMILY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 08:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 09:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MINO - 3rd FULL ALBUM [“TO INFINITY.”] D-1]]></title>
+            <link>https://tv.naver.com/v/23929870</link>
+            <guid>https://tv.naver.com/v/23929870</guid>
+            <pubDate>Mon, 06 Dec 2021 09:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_279/Iwv5w_16387799449404WJb5_JPEG/1638779879978.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MINO - 3rd FULL ALBUM ["TO INFINITY."] HIGHLIGHT VERSE PREVIEW]]></title>
             <link>https://tv.naver.com/v/23915970</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
             <content:encoded><![CDATA[0:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211001_242/VVyt7_1633073746894l0Ql4_JPEG/1633073736505.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[TREASURE - 'TEU-DAY' SPOILER VIDEO]]></title>
-            <link>https://tv.naver.com/v/22699559</link>
-            <guid>https://tv.naver.com/v/22699559</guid>
-            <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210930_247/f34CM_1632967959390YtTMN_JPEG/1632967730343.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
