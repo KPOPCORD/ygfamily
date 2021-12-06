@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-12-05T23:11:58.208Z</updated>
+    <updated>2021-12-06T00:40:39.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MINO - 3rd FULL ALBUM ["TO INFINITY."] HIGHLIGHT VERSE PREVIEW]]></title>
+        <id>https://www.vlive.tv/post/0-26803618</id>
+        <link href="https://www.vlive.tv/post/0-26803618"/>
+        <updated>2021-12-06T00:40:38.183Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MINO - ‘탕!♡ (TANG!♡)’ UNTACT LISTENING SESSION]]></title>
         <id>https://www.vlive.tv/post/1-26750423</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/1-26182812</id>
         <link href="https://www.vlive.tv/post/1-26182812"/>
         <updated>2021-11-22T18:13:59.161Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOON - 'PASSAGE' MESSAGE VIDEO]]></title>
-        <id>https://www.vlive.tv/post/0-26092628</id>
-        <link href="https://www.vlive.tv/post/0-26092628"/>
-        <updated>2021-11-22T18:13:59.163Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
 </feed>
