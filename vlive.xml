@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-12-06T21:11:44.856Z</updated>
+    <updated>2021-12-07T08:15:12.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MINO [“TO INFINITY.”] COUNTDOWN LIVE]]></title>
+        <id>https://www.vlive.tv/post/0-26700857</id>
+        <link href="https://www.vlive.tv/post/0-26700857"/>
+        <updated>2021-12-07T08:15:11.441Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TREASURE - [TMI_LOG] EP.8 HARUTO CAM 📹]]></title>
+        <id>https://www.vlive.tv/post/0-26824948</id>
+        <link href="https://www.vlive.tv/post/0-26824948"/>
+        <updated>2021-12-07T08:15:11.455Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MINO - 3rd FULL ALBUM [“TO INFINITY.”] D-1]]></title>
         <id>https://www.vlive.tv/post/0-26814446</id>
@@ -129,20 +143,6 @@
         <id>https://www.vlive.tv/post/0-26322133</id>
         <link href="https://www.vlive.tv/post/0-26322133"/>
         <updated>2021-11-22T18:13:59.159Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE - [TMI_LOG] EP.4 JIHOON CAM 📹]]></title>
-        <id>https://www.vlive.tv/post/0-26318446</id>
-        <link href="https://www.vlive.tv/post/0-26318446"/>
-        <updated>2021-11-22T18:13:59.160Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE - ‘BE WITH ME' HAPPY HALLOWEEN LIVE]]></title>
-        <id>https://www.vlive.tv/post/1-26241543</id>
-        <link href="https://www.vlive.tv/post/1-26241543"/>
-        <updated>2021-11-22T18:13:59.161Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
 </feed>

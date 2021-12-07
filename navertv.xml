@@ -4,9 +4,17 @@
         <title>네이버 TV ─ YG FAMILY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 21:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 08:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TREASURE - [TMI_LOG] EP.8 HARUTO CAM 📹]]></title>
+            <link>https://tv.naver.com/v/23942235</link>
+            <guid>https://tv.naver.com/v/23942235</guid>
+            <pubDate>Tue, 07 Dec 2021 08:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[8:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211207_152/jznwn_1638838478823wmtxR_JPEG/1638838316431.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MINO - 3rd FULL ALBUM [“TO INFINITY.”] D-1]]></title>
             <link>https://tv.naver.com/v/23929870</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
             <content:encoded><![CDATA[6:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211007_65/3aGhF_16335332345440Bio2_JPEG/1633533215422.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[TEU-DAY] TEU-LIGHT 펌웨어 업데이트를 통해 TEU-DAY에서 특별한 반짝임을 경험하세요!]]></title>
-            <link>https://tv.naver.com/v/22732621</link>
-            <guid>https://tv.naver.com/v/22732621</guid>
-            <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_242/VVyt7_1633073746894l0Ql4_JPEG/1633073736505.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

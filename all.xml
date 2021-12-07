@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 21:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 08:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,14 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <pubDate>Mon, 25 Oct 2021 11:55:54 GMT</pubDate>
             <content:encoded><![CDATA[♥블링크♥ 안녕하세요! +오늘 오전+ ٩(๑•̀o•́๑)و Ice Cream 뮤비가 2억뷰를 돌파했다는 기쁜 소식을 듣고 ٩(๑•̀o•́๑)و 감사한 마음에 Only ♥블링크&amp;hearts···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MDhfMjY5/MDAxNTk5NTMzNTk2NTc4.CfuThuA7T97vT_kUuuLhu5I3OuHPySp9SS-e7vkBrTIg.Ue09yeLlOpYXKiCPANtWJi1o7GRKgWKbBy2dS6a6STsg.JPEG/IHRRE8jwsFruSjY3iLkZpzhmptSw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TREASURE - [TMI_LOG] EP.8 HARUTO CAM 📹 (네이버 TV ─ YG FAMILY)]]></title>
+            <link>https://tv.naver.com/v/23942235</link>
+            <guid>https://tv.naver.com/v/23942235</guid>
+            <pubDate>Tue, 07 Dec 2021 08:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[8:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211207_152/jznwn_1638838478823wmtxR_JPEG/1638838316431.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MINO - 3rd FULL ALBUM [“TO INFINITY.”] D-1 (네이버 TV ─ YG FAMILY)]]></title>
@@ -416,12 +424,18 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211007_65/3aGhF_16335332345440Bio2_JPEG/1633533215422.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[TEU-DAY] TEU-LIGHT 펌웨어 업데이트를 통해 TEU-DAY에서 특별한 반짝임을 경험하세요! (네이버 TV ─ YG FAMILY)]]></title>
-            <link>https://tv.naver.com/v/22732621</link>
-            <guid>https://tv.naver.com/v/22732621</guid>
-            <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_242/VVyt7_1633073746894l0Ql4_JPEG/1633073736505.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+            <title><![CDATA[MINO [“TO INFINITY.”] COUNTDOWN LIVE (V LIVE ─ YG Family)]]></title>
+            <link>https://www.vlive.tv/post/0-26700857</link>
+            <guid>https://www.vlive.tv/post/0-26700857</guid>
+            <pubDate>Tue, 07 Dec 2021 08:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[YG Family]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TREASURE - [TMI_LOG] EP.8 HARUTO CAM 📹 (V LIVE ─ YG Family)]]></title>
+            <link>https://www.vlive.tv/post/0-26824948</link>
+            <guid>https://www.vlive.tv/post/0-26824948</guid>
+            <pubDate>Tue, 07 Dec 2021 08:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[YG Family]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MINO - 3rd FULL ALBUM [“TO INFINITY.”] D-1 (V LIVE ─ YG Family)]]></title>
@@ -546,20 +560,6 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <title><![CDATA[TREASURE - WEB DRAMA "The Mysterious Class" TEASER (V LIVE ─ YG Family)]]></title>
             <link>https://www.vlive.tv/post/0-26322133</link>
             <guid>https://www.vlive.tv/post/0-26322133</guid>
-            <pubDate>Mon, 22 Nov 2021 18:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[YG Family]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TREASURE - [TMI_LOG] EP.4 JIHOON CAM 📹 (V LIVE ─ YG Family)]]></title>
-            <link>https://www.vlive.tv/post/0-26318446</link>
-            <guid>https://www.vlive.tv/post/0-26318446</guid>
-            <pubDate>Mon, 22 Nov 2021 18:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[YG Family]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TREASURE - ‘BE WITH ME' HAPPY HALLOWEEN LIVE (V LIVE ─ YG Family)]]></title>
-            <link>https://www.vlive.tv/post/1-26241543</link>
-            <guid>https://www.vlive.tv/post/1-26241543</guid>
             <pubDate>Mon, 22 Nov 2021 18:13:59 GMT</pubDate>
             <content:encoded><![CDATA[YG Family]]></content:encoded>
         </item>
