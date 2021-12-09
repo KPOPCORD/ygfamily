@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-12-09T14:12:04.778Z</updated>
+    <updated>2021-12-09T15:12:55.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MINO - ‘TANG!♡’ FOR YOUR QUESTIONS INTERVIEW]]></title>
+        <id>https://www.vlive.tv/post/1-26868574</id>
+        <link href="https://www.vlive.tv/post/1-26868574"/>
+        <updated>2021-12-09T15:12:54.839Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MINO - WELCOME “TO INFINITY.” CONCEPT EXHIBITION : LISTEN TO PIECES]]></title>
         <id>https://www.vlive.tv/post/1-26852683</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/1-26407026</id>
         <link href="https://www.vlive.tv/post/1-26407026"/>
         <updated>2021-11-22T18:13:59.154Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MINO - 'MANIAC' with BAND SESSION]]></title>
-        <id>https://www.vlive.tv/post/1-26378615</id>
-        <link href="https://www.vlive.tv/post/1-26378615"/>
-        <updated>2021-11-22T18:13:59.157Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
 </feed>

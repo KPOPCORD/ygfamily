@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 14:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 15:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,14 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <pubDate>Mon, 25 Oct 2021 11:55:54 GMT</pubDate>
             <content:encoded><![CDATA[♥블링크♥ 안녕하세요! +오늘 오전+ ٩(๑•̀o•́๑)و Ice Cream 뮤비가 2억뷰를 돌파했다는 기쁜 소식을 듣고 ٩(๑•̀o•́๑)و 감사한 마음에 Only ♥블링크&amp;hearts···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MDhfMjY5/MDAxNTk5NTMzNTk2NTc4.CfuThuA7T97vT_kUuuLhu5I3OuHPySp9SS-e7vkBrTIg.Ue09yeLlOpYXKiCPANtWJi1o7GRKgWKbBy2dS6a6STsg.JPEG/IHRRE8jwsFruSjY3iLkZpzhmptSw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MINO - ‘TANG!♡’ FOR YOUR QUESTIONS INTERVIEW (네이버 TV ─ YG FAMILY)]]></title>
+            <link>https://tv.naver.com/v/23996412</link>
+            <guid>https://tv.naver.com/v/23996412</guid>
+            <pubDate>Thu, 09 Dec 2021 15:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[5:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_244/C9CVn_16390501596640Gzus_JPEG/1639050152825.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MINO - WELCOME “TO INFINITY.” CONCEPT EXHIBITION : LISTEN TO PIECES (네이버 TV ─ YG FAMILY)]]></title>
@@ -416,12 +424,11 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_68/4lmEY_1634302927167GYPq2_JPEG/1634302877311.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MINO - 'MANIAC' TEASER VIDEO (네이버 TV ─ YG FAMILY)]]></title>
-            <link>https://tv.naver.com/v/22951700</link>
-            <guid>https://tv.naver.com/v/22951700</guid>
-            <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[0:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211014_59/tkQ6f_1634180235726xNeq8_JPEG/1634180032216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[MINO - ‘TANG!♡’ FOR YOUR QUESTIONS INTERVIEW (V LIVE ─ YG Family)]]></title>
+            <link>https://www.vlive.tv/post/1-26868574</link>
+            <guid>https://www.vlive.tv/post/1-26868574</guid>
+            <pubDate>Thu, 09 Dec 2021 15:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[YG Family]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MINO - WELCOME “TO INFINITY.” CONCEPT EXHIBITION : LISTEN TO PIECES (V LIVE ─ YG Family)]]></title>
@@ -553,13 +560,6 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <title><![CDATA[YOON - 'PASSAGE' with BAND SESSION (V LIVE ─ YG Family)]]></title>
             <link>https://www.vlive.tv/post/1-26407026</link>
             <guid>https://www.vlive.tv/post/1-26407026</guid>
-            <pubDate>Mon, 22 Nov 2021 18:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[YG Family]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MINO - 'MANIAC' with BAND SESSION (V LIVE ─ YG Family)]]></title>
-            <link>https://www.vlive.tv/post/1-26378615</link>
-            <guid>https://www.vlive.tv/post/1-26378615</guid>
             <pubDate>Mon, 22 Nov 2021 18:13:59 GMT</pubDate>
             <content:encoded><![CDATA[YG Family]]></content:encoded>
         </item>
