@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-12-14T14:11:32.440Z</updated>
+    <updated>2021-12-14T15:12:53.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MINO - ‘탕!♡ (TANG!♡)’ DANCE PRACTICE VIDEO]]></title>
+        <id>https://www.vlive.tv/post/1-26941783</id>
+        <link href="https://www.vlive.tv/post/1-26941783"/>
+        <updated>2021-12-14T15:12:53.196Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TREASURE - [TMI_LOG] EP.9 YOON JAE HYUK CAM 📹]]></title>
         <id>https://www.vlive.tv/post/1-26930923</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/1-26454819</id>
         <link href="https://www.vlive.tv/post/1-26454819"/>
         <updated>2021-11-22T18:13:59.149Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOON - 'PASSAGE' VIEWING GUIDE]]></title>
-        <id>https://www.vlive.tv/post/0-26448221</id>
-        <link href="https://www.vlive.tv/post/0-26448221"/>
-        <updated>2021-11-22T18:13:59.153Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
 </feed>
