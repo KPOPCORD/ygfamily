@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 02:39:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 03:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,14 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <pubDate>Mon, 25 Oct 2021 11:55:54 GMT</pubDate>
             <content:encoded><![CDATA[♥블링크♥ 안녕하세요! +오늘 오전+ ٩(๑•̀o•́๑)و Ice Cream 뮤비가 2억뷰를 돌파했다는 기쁜 소식을 듣고 ٩(๑•̀o•́๑)و 감사한 마음에 Only ♥블링크&amp;hearts···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MDhfMjY5/MDAxNTk5NTMzNTk2NTc4.CfuThuA7T97vT_kUuuLhu5I3OuHPySp9SS-e7vkBrTIg.Ue09yeLlOpYXKiCPANtWJi1o7GRKgWKbBy2dS6a6STsg.JPEG/IHRRE8jwsFruSjY3iLkZpzhmptSw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TREASURE - [TMI_LOG] EP.9 YOON JAE HYUK CAM 📹 (네이버 TV ─ YG FAMILY)]]></title>
+            <link>https://tv.naver.com/v/24061664</link>
+            <guid>https://tv.naver.com/v/24061664</guid>
+            <pubDate>Tue, 14 Dec 2021 03:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[6:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_170/H45lo_16394054609442VAE2_JPEG/1639405068605.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MINO - MINO REC "TO INFINITY." : PART ONE (네이버 TV ─ YG FAMILY)]]></title>
@@ -416,12 +424,11 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_74/Gl6XL_1634865353880e7izu_JPEG/1634864355046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MINO - 'MANIAC' MESSAGE VIDEO (네이버 TV ─ YG FAMILY)]]></title>
-            <link>https://tv.naver.com/v/23066405</link>
-            <guid>https://tv.naver.com/v/23066405</guid>
-            <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_250/R2Hov_1634711492840ITDeb_JPEG/1634711424393.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[TREASURE - [TMI_LOG] EP.9 YOON JAE HYUK CAM 📹 (V LIVE ─ YG Family)]]></title>
+            <link>https://www.vlive.tv/post/1-26930923</link>
+            <guid>https://www.vlive.tv/post/1-26930923</guid>
+            <pubDate>Tue, 14 Dec 2021 03:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[YG Family]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MINO - MINO REC "TO INFINITY." : PART ONE (V LIVE ─ YG Family)]]></title>
@@ -553,13 +560,6 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <title><![CDATA[YOON - 'PASSAGE' VIEWING GUIDE (V LIVE ─ YG Family)]]></title>
             <link>https://www.vlive.tv/post/0-26448221</link>
             <guid>https://www.vlive.tv/post/0-26448221</guid>
-            <pubDate>Mon, 22 Nov 2021 18:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[YG Family]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TREASURE - [TMI_LOG] EP.5 DOYOUNG CAM 📹 (V LIVE ─ YG Family)]]></title>
-            <link>https://www.vlive.tv/post/0-26448042</link>
-            <guid>https://www.vlive.tv/post/0-26448042</guid>
             <pubDate>Mon, 22 Nov 2021 18:13:59 GMT</pubDate>
             <content:encoded><![CDATA[YG Family]]></content:encoded>
         </item>

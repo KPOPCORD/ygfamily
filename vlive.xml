@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-12-14T02:39:20.258Z</updated>
+    <updated>2021-12-14T03:12:13.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TREASURE - [TMI_LOG] EP.9 YOON JAE HYUK CAM 📹]]></title>
+        <id>https://www.vlive.tv/post/1-26930923</id>
+        <link href="https://www.vlive.tv/post/1-26930923"/>
+        <updated>2021-12-14T03:12:13.292Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MINO - MINO REC "TO INFINITY." : PART ONE]]></title>
         <id>https://www.vlive.tv/post/0-26918888</id>
@@ -135,13 +142,6 @@
         <title type="html"><![CDATA[YOON - 'PASSAGE' VIEWING GUIDE]]></title>
         <id>https://www.vlive.tv/post/0-26448221</id>
         <link href="https://www.vlive.tv/post/0-26448221"/>
-        <updated>2021-11-22T18:13:59.153Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE - [TMI_LOG] EP.5 DOYOUNG CAM 📹]]></title>
-        <id>https://www.vlive.tv/post/0-26448042</id>
-        <link href="https://www.vlive.tv/post/0-26448042"/>
         <updated>2021-11-22T18:13:59.153Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
