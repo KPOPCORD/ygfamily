@@ -4,9 +4,17 @@
         <title>네이버 TV ─ YG FAMILY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 14:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 15:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MINO - 'LOVE IN DA CAR' SPECIAL VIDEO]]></title>
+            <link>https://tv.naver.com/v/24113857</link>
+            <guid>https://tv.naver.com/v/24113857</guid>
+            <pubDate>Thu, 16 Dec 2021 15:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_293/wzAB8_1639647802508XEp6l_JPEG/1639647630172.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MINO - ‘탕!♡ (TANG!♡)’ DANCE PRACTICE VIDEO]]></title>
             <link>https://tv.naver.com/v/24077424</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Oct 2021 03:12:21 GMT</pubDate>
             <content:encoded><![CDATA[5:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211026_246/sS2dR_1635235719571gwT68_JPEG/1635235619028.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YOON - 'PASSAGE' MESSAGE VIDEO]]></title>
-            <link>https://tv.naver.com/v/23100398</link>
-            <guid>https://tv.naver.com/v/23100398</guid>
-            <pubDate>Mon, 25 Oct 2021 11:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_212/ueMUL_1634818066560UdJek_JPEG/1634817921281.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
