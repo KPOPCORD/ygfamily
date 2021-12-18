@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-12-18T02:02:18.708Z</updated>
+    <updated>2021-12-18T03:14:07.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[iKON - 'i DECIDE' FAN SIGNING DAY IN GANGNAM]]></title>
+        <id>https://www.vlive.tv/post/1-26975986</id>
+        <link href="https://www.vlive.tv/post/1-26975986"/>
+        <updated>2021-12-18T03:14:06.930Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MINO - 'LOVE IN DA CAR' SPECIAL VIDEO]]></title>
         <id>https://www.vlive.tv/post/1-26965599</id>
@@ -135,13 +142,6 @@
         <title type="html"><![CDATA[YOON - 'PASSAGE' SPOILER VIDEO]]></title>
         <id>https://www.vlive.tv/post/0-26498263</id>
         <link href="https://www.vlive.tv/post/0-26498263"/>
-        <updated>2021-11-22T18:13:59.142Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MINO - 'MANIAC' SPOILER VIDEO]]></title>
-        <id>https://www.vlive.tv/post/0-26470696</id>
-        <link href="https://www.vlive.tv/post/0-26470696"/>
         <updated>2021-11-22T18:13:59.142Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>

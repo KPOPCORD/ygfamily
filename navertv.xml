@@ -4,9 +4,17 @@
         <title>네이버 TV ─ YG FAMILY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 02:02:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 03:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[iKON - 'i DECIDE' FAN SIGNING DAY IN GANGNAM]]></title>
+            <link>https://tv.naver.com/v/24127996</link>
+            <guid>https://tv.naver.com/v/24127996</guid>
+            <pubDate>Sat, 18 Dec 2021 03:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[4:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_43/r0hoX_1639721583900CNtIF_JPEG/1639721369760.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MINO - 'LOVE IN DA CAR' SPECIAL VIDEO]]></title>
             <link>https://tv.naver.com/v/24113857</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Oct 2021 15:11:29 GMT</pubDate>
             <content:encoded><![CDATA[5:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211030_96/6P6b7_16355877912580yH8O_JPEG/1635586897178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TREASURE - [TMI_LOG] EP.3 YOSHI CAM 📹]]></title>
-            <link>https://tv.naver.com/v/23180854</link>
-            <guid>https://tv.naver.com/v/23180854</guid>
-            <pubDate>Wed, 27 Oct 2021 03:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[5:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211026_246/sS2dR_1635235719571gwT68_JPEG/1635235619028.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
