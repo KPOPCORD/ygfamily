@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-12-20T14:11:55.719Z</updated>
+    <updated>2021-12-20T15:12:31.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MINO - 3rd FULL ALBUM “TO INFINITY.” ALBUM UNBOXING]]></title>
+        <id>https://www.vlive.tv/post/1-27017821</id>
+        <link href="https://www.vlive.tv/post/1-27017821"/>
+        <updated>2021-12-20T15:12:30.705Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iKON - 'i DECIDE' FAN SIGNING DAY IN GANGNAM]]></title>
         <id>https://www.vlive.tv/post/1-26975986</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/0-26489046</id>
         <link href="https://www.vlive.tv/post/0-26489046"/>
         <updated>2021-11-22T18:13:59.141Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOON - 'PASSAGE' SPOILER VIDEO]]></title>
-        <id>https://www.vlive.tv/post/0-26498263</id>
-        <link href="https://www.vlive.tv/post/0-26498263"/>
-        <updated>2021-11-22T18:13:59.142Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
 </feed>

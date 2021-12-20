@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 14:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 15:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,14 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <pubDate>Mon, 25 Oct 2021 11:55:54 GMT</pubDate>
             <content:encoded><![CDATA[♥블링크♥ 안녕하세요! +오늘 오전+ ٩(๑•̀o•́๑)و Ice Cream 뮤비가 2억뷰를 돌파했다는 기쁜 소식을 듣고 ٩(๑•̀o•́๑)و 감사한 마음에 Only ♥블링크&amp;hearts···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MDhfMjY5/MDAxNTk5NTMzNTk2NTc4.CfuThuA7T97vT_kUuuLhu5I3OuHPySp9SS-e7vkBrTIg.Ue09yeLlOpYXKiCPANtWJi1o7GRKgWKbBy2dS6a6STsg.JPEG/IHRRE8jwsFruSjY3iLkZpzhmptSw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MINO - 3rd FULL ALBUM “TO INFINITY.” ALBUM UNBOXING (네이버 TV ─ YG FAMILY)]]></title>
+            <link>https://tv.naver.com/v/24170927</link>
+            <guid>https://tv.naver.com/v/24170927</guid>
+            <pubDate>Mon, 20 Dec 2021 15:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[5:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_244/8iv04_1639997933810PTzaN_JPEG/1639997042945.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[iKON - 'i DECIDE' FAN SIGNING DAY IN GANGNAM (네이버 TV ─ YG FAMILY)]]></title>
@@ -416,12 +424,11 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211105_223/mKQC2_1636075197348GTopI_JPEG/1636075131613.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[TREASURE - ‘나랑 있자 (BE WITH ME)’ HAPPY HALLOWEEN LIVE (네이버 TV ─ YG FAMILY)]]></title>
-            <link>https://tv.naver.com/v/23253766</link>
-            <guid>https://tv.naver.com/v/23253766</guid>
-            <pubDate>Sat, 30 Oct 2021 15:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[5:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211030_96/6P6b7_16355877912580yH8O_JPEG/1635586897178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[MINO - 3rd FULL ALBUM “TO INFINITY.” ALBUM UNBOXING (V LIVE ─ YG Family)]]></title>
+            <link>https://www.vlive.tv/post/1-27017821</link>
+            <guid>https://www.vlive.tv/post/1-27017821</guid>
+            <pubDate>Mon, 20 Dec 2021 15:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[YG Family]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[iKON - 'i DECIDE' FAN SIGNING DAY IN GANGNAM (V LIVE ─ YG Family)]]></title>
@@ -553,13 +560,6 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <title><![CDATA[JAY X DK - Dance Performance Video (Doja Cat, The Weeknd - You Right) (V LIVE ─ YG Family)]]></title>
             <link>https://www.vlive.tv/post/0-26489046</link>
             <guid>https://www.vlive.tv/post/0-26489046</guid>
-            <pubDate>Mon, 22 Nov 2021 18:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[YG Family]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[YOON - 'PASSAGE' SPOILER VIDEO (V LIVE ─ YG Family)]]></title>
-            <link>https://www.vlive.tv/post/0-26498263</link>
-            <guid>https://www.vlive.tv/post/0-26498263</guid>
             <pubDate>Mon, 22 Nov 2021 18:13:59 GMT</pubDate>
             <content:encoded><![CDATA[YG Family]]></content:encoded>
         </item>
