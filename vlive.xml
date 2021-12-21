@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-12-21T14:11:48.320Z</updated>
+    <updated>2021-12-21T15:13:01.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MINO - MINO REC "TO INFINITY." : PART TWO]]></title>
+        <id>https://www.vlive.tv/post/0-27026709</id>
+        <link href="https://www.vlive.tv/post/0-27026709"/>
+        <updated>2021-12-21T15:13:01.240Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TREASURE - [TMI_LOG] EP.10 MASHIHO CAM 📹]]></title>
         <id>https://www.vlive.tv/post/1-27014609</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/1-26574301</id>
         <link href="https://www.vlive.tv/post/1-26574301"/>
         <updated>2021-11-22T18:13:59.132Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE - [TMI_LOG] EP.6 BANG YE DAM CAM 📹]]></title>
-        <id>https://www.vlive.tv/post/0-26546596</id>
-        <link href="https://www.vlive.tv/post/0-26546596"/>
-        <updated>2021-11-22T18:13:59.133Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
 </feed>
