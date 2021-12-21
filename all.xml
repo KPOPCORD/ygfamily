@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 02:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 03:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,14 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <pubDate>Mon, 25 Oct 2021 11:55:54 GMT</pubDate>
             <content:encoded><![CDATA[♥블링크♥ 안녕하세요! +오늘 오전+ ٩(๑•̀o•́๑)و Ice Cream 뮤비가 2억뷰를 돌파했다는 기쁜 소식을 듣고 ٩(๑•̀o•́๑)و 감사한 마음에 Only ♥블링크&amp;hearts···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MDhfMjY5/MDAxNTk5NTMzNTk2NTc4.CfuThuA7T97vT_kUuuLhu5I3OuHPySp9SS-e7vkBrTIg.Ue09yeLlOpYXKiCPANtWJi1o7GRKgWKbBy2dS6a6STsg.JPEG/IHRRE8jwsFruSjY3iLkZpzhmptSw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TREASURE - [TMI_LOG] EP.10 MASHIHO CAM 📹 (네이버 TV ─ YG FAMILY)]]></title>
+            <link>https://tv.naver.com/v/24165125</link>
+            <guid>https://tv.naver.com/v/24165125</guid>
+            <pubDate>Tue, 21 Dec 2021 03:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[6:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_99/W9NgV_1639980009401SDWPC_JPEG/1639979852563.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MINO - 3rd FULL ALBUM “TO INFINITY.” ALBUM UNBOXING (네이버 TV ─ YG FAMILY)]]></title>
@@ -416,12 +424,11 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211105_114/AvuVw_1636099431494WXDGy_PNG/1636099415157.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[TREASURE - [TMI_LOG] EP.4 JIHOON CAM 📹 (네이버 TV ─ YG FAMILY)]]></title>
-            <link>https://tv.naver.com/v/23361448</link>
-            <guid>https://tv.naver.com/v/23361448</guid>
-            <pubDate>Fri, 05 Nov 2021 03:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[7:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211105_223/mKQC2_1636075197348GTopI_JPEG/1636075131613.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[TREASURE - [TMI_LOG] EP.10 MASHIHO CAM 📹 (V LIVE ─ YG Family)]]></title>
+            <link>https://www.vlive.tv/post/1-27014609</link>
+            <guid>https://www.vlive.tv/post/1-27014609</guid>
+            <pubDate>Tue, 21 Dec 2021 03:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[YG Family]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MINO - 3rd FULL ALBUM “TO INFINITY.” ALBUM UNBOXING (V LIVE ─ YG Family)]]></title>
@@ -553,13 +560,6 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <title><![CDATA[TREASURE - [TMI_LOG] EP.6 BANG YE DAM CAM 📹 (V LIVE ─ YG Family)]]></title>
             <link>https://www.vlive.tv/post/0-26546596</link>
             <guid>https://www.vlive.tv/post/0-26546596</guid>
-            <pubDate>Mon, 22 Nov 2021 18:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[YG Family]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[JAY X DK - Dance Performance Video (Doja Cat, The Weeknd - You Right) (V LIVE ─ YG Family)]]></title>
-            <link>https://www.vlive.tv/post/0-26489046</link>
-            <guid>https://www.vlive.tv/post/0-26489046</guid>
             <pubDate>Mon, 22 Nov 2021 18:13:59 GMT</pubDate>
             <content:encoded><![CDATA[YG Family]]></content:encoded>
         </item>

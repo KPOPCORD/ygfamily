@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-12-21T02:02:55.861Z</updated>
+    <updated>2021-12-21T03:13:39.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TREASURE - [TMI_LOG] EP.10 MASHIHO CAM 📹]]></title>
+        <id>https://www.vlive.tv/post/1-27014609</id>
+        <link href="https://www.vlive.tv/post/1-27014609"/>
+        <updated>2021-12-21T03:13:38.746Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MINO - 3rd FULL ALBUM “TO INFINITY.” ALBUM UNBOXING]]></title>
         <id>https://www.vlive.tv/post/1-27017821</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/0-26546596</id>
         <link href="https://www.vlive.tv/post/0-26546596"/>
         <updated>2021-11-22T18:13:59.133Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JAY X DK - Dance Performance Video (Doja Cat, The Weeknd - You Right)]]></title>
-        <id>https://www.vlive.tv/post/0-26489046</id>
-        <link href="https://www.vlive.tv/post/0-26489046"/>
-        <updated>2021-11-22T18:13:59.141Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
 </feed>
