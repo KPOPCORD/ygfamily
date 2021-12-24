@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-12-24T11:10:35.112Z</updated>
+    <updated>2021-12-24T12:19:11.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[iKON-ON : 2021 iKONystmas Party Teaser]]></title>
+        <id>https://www.vlive.tv/post/1-27069588</id>
+        <link href="https://www.vlive.tv/post/1-27069588"/>
+        <updated>2021-12-24T12:19:11.319Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TREASURE - WEB DRAMA ‘남고괴담’ OST <BFF> (HAPPY CHRISTMAS ver.)]]></title>
         <id>https://www.vlive.tv/post/1-27059290</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/1-26675942</id>
         <link href="https://www.vlive.tv/post/1-26675942"/>
         <updated>2021-11-30T03:10:44.320Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MINO - VISUAL FILM #2]]></title>
-        <id>https://www.vlive.tv/post/1-26585673</id>
-        <link href="https://www.vlive.tv/post/1-26585673"/>
-        <updated>2021-11-23T15:13:38.424Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
 </feed>
