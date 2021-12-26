@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/FDB2F/board/3518</id>
     <title>V LIVE ─ YG Family</title>
-    <updated>2021-12-26T04:15:53.695Z</updated>
+    <updated>2021-12-26T05:12:19.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[iKON-ON : 2021 iKONystmas Party EP. 2]]></title>
+        <id>https://www.vlive.tv/post/1-27094138</id>
+        <link href="https://www.vlive.tv/post/1-27094138"/>
+        <updated>2021-12-26T05:12:18.788Z</updated>
+        <content type="html"><![CDATA[YG Family]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iKON-ON : 2021 iKONystmas Party EP. 1]]></title>
         <id>https://www.vlive.tv/post/0-27072294</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/1-26750423</id>
         <link href="https://www.vlive.tv/post/1-26750423"/>
         <updated>2021-12-04T01:54:44.537Z</updated>
-        <content type="html"><![CDATA[YG Family]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MINO - "TANG!♡"M/V TEASER]]></title>
-        <id>https://www.vlive.tv/post/1-26728749</id>
-        <link href="https://www.vlive.tv/post/1-26728749"/>
-        <updated>2021-12-02T15:11:15.420Z</updated>
         <content type="html"><![CDATA[YG Family]]></content>
     </entry>
 </feed>

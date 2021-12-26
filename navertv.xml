@@ -4,9 +4,17 @@
         <title>네이버 TV ─ YG FAMILY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 04:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 05:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[iKON-ON : 2021 iKONystmas Party EP. 2]]></title>
+            <link>https://tv.naver.com/v/24272474</link>
+            <guid>https://tv.naver.com/v/24272474</guid>
+            <pubDate>Sun, 26 Dec 2021 05:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[20:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211226_188/PCZY0_1640484717784o2GK3_JPEG/1640482877467.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[iKON-ON : 2021 iKONystmas Party EP. 1]]></title>
             <link>https://tv.naver.com/v/24259052</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 15 Nov 2021 05:11:21 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211114_275/cdoFF_1636893175468hwUsE_JPEG/1636892718323.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TREASURE - [TMI_LOG] EP.5 DOYOUNG CAM 📹]]></title>
-            <link>https://tv.naver.com/v/23519993</link>
-            <guid>https://tv.naver.com/v/23519993</guid>
-            <pubDate>Mon, 15 Nov 2021 03:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[5:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211114_8/dq5v9_1636892550662GHH8f_JPEG/1636891905522.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
