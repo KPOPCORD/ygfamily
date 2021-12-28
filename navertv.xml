@@ -4,9 +4,17 @@
         <title>네이버 TV ─ YG FAMILY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 02:38:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 03:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TREASURE - [TMI_LOG] EP.11 SO JUNG HWAN CAM 📹]]></title>
+            <link>https://tv.naver.com/v/24297450</link>
+            <guid>https://tv.naver.com/v/24297450</guid>
+            <pubDate>Tue, 28 Dec 2021 03:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[6:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_12/HpmXb_1640598419178kyOXj_JPEG/1640598079800.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[iKON-ON : 2021 iKONystmas Party EP. 2]]></title>
             <link>https://tv.naver.com/v/24272474</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 15 Nov 2021 05:11:21 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211114_53/ITxWG_1636893727905z6vAl_JPEG/1636893314661.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YOON - 'PASSAGE' VIEWING GUIDE]]></title>
-            <link>https://tv.naver.com/v/23520234</link>
-            <guid>https://tv.naver.com/v/23520234</guid>
-            <pubDate>Mon, 15 Nov 2021 05:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211114_275/cdoFF_1636893175468hwUsE_JPEG/1636892718323.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

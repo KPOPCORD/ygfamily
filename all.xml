@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 02:38:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 03:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -180,6 +180,14 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <pubDate>Mon, 25 Oct 2021 11:55:54 GMT</pubDate>
             <content:encoded><![CDATA[트 하♥요즘 우리 맘에 사랑 폭격내리고 있는 12명!! ღ'ᴗ'ღ  바로 바로 신곡 '사랑해 (I LOVE YOU)'로 돌아온트.레.저 !! FIND YOUR TREASURE  12 멤버들의 직진 고백다들 잘 보고 계신가요?! 한 달 동안 시간이 너무···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MjVfNDcg/MDAxNjAwOTYwMDQ1NDQ0.AjKSlCDiIo1NViIf0QRxdbpDE5GIrKCG-L9s0owUXLgg.IEZGAG-lD9334sX0G71qIYynTj0aOBfHtsJt0T5Qfiwg.JPEG/I64n0zTmRTGzaz4CltyTdaoaeVqI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TREASURE - [TMI_LOG] EP.11 SO JUNG HWAN CAM 📹 (네이버 TV ─ YG FAMILY)]]></title>
+            <link>https://tv.naver.com/v/24297450</link>
+            <guid>https://tv.naver.com/v/24297450</guid>
+            <pubDate>Tue, 28 Dec 2021 03:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[6:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_12/HpmXb_1640598419178kyOXj_JPEG/1640598079800.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[iKON-ON : 2021 iKONystmas Party EP. 2 (네이버 TV ─ YG FAMILY)]]></title>
@@ -414,12 +422,11 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211114_53/ITxWG_1636893727905z6vAl_JPEG/1636893314661.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[YOON - 'PASSAGE' VIEWING GUIDE (네이버 TV ─ YG FAMILY)]]></title>
-            <link>https://tv.naver.com/v/23520234</link>
-            <guid>https://tv.naver.com/v/23520234</guid>
-            <pubDate>Mon, 15 Nov 2021 05:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211114_275/cdoFF_1636893175468hwUsE_JPEG/1636892718323.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[TREASURE - [TMI_LOG] EP.11 SO JUNG HWAN CAM 📹 (V LIVE ─ YG Family)]]></title>
+            <link>https://www.vlive.tv/post/0-27104756</link>
+            <guid>https://www.vlive.tv/post/0-27104756</guid>
+            <pubDate>Tue, 28 Dec 2021 03:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[YG Family]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[iKON-ON : 2021 iKONystmas Party EP. 2 (V LIVE ─ YG Family)]]></title>
@@ -552,13 +559,6 @@ COMING SOON (네이버 포스트 ─ YG FAMILY )]]></title>
             <link>https://www.vlive.tv/post/0-26803618</link>
             <guid>https://www.vlive.tv/post/0-26803618</guid>
             <pubDate>Mon, 06 Dec 2021 00:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[YG Family]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MINO - ‘탕!♡ (TANG!♡)’ UNTACT LISTENING SESSION (V LIVE ─ YG Family)]]></title>
-            <link>https://www.vlive.tv/post/1-26750423</link>
-            <guid>https://www.vlive.tv/post/1-26750423</guid>
-            <pubDate>Sat, 04 Dec 2021 01:54:44 GMT</pubDate>
             <content:encoded><![CDATA[YG Family]]></content:encoded>
         </item>
     </channel>
